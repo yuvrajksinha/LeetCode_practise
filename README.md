@@ -6,10 +6,12 @@ This repository contains my LeetCode practice submissions, synced via LeetHub. I
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,4 +20,5 @@ This repository contains my LeetCode practice submissions, synced via LeetHub. I
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
