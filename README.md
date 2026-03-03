@@ -13,6 +13,7 @@ This repository contains my LeetCode practice submissions, synced via LeetHub. I
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
@@ -20,6 +21,7 @@ This repository contains my LeetCode practice submissions, synced via LeetHub. I
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 ## Binary Tree
@@ -46,4 +48,12 @@ This repository contains my LeetCode practice submissions, synced via LeetHub. I
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
