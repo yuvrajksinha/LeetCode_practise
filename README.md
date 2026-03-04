@@ -35,6 +35,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0200-number-of-islands](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 ## Matrix
@@ -54,4 +55,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
