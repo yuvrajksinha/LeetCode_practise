@@ -36,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
+| [0198-house-robber](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -108,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+| [0198-house-robber](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
