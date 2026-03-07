@@ -3,6 +3,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0113-path-sum-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -18,6 +19,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0200-number-of-islands](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
@@ -25,6 +27,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0113-path-sum-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
