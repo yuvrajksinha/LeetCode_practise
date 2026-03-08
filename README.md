@@ -38,6 +38,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0198-house-robber](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
@@ -74,6 +75,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 ## Divide and Conquer
