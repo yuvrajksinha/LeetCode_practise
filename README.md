@@ -48,6 +48,7 @@
 | [0347-top-k-frequent-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0733-flood-fill](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
