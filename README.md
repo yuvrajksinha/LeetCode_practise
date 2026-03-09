@@ -76,6 +76,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 ## Divide and Conquer
@@ -131,4 +132,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
