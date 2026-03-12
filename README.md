@@ -126,6 +126,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0070-climbing-stairs](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
