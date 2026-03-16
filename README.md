@@ -51,6 +51,7 @@
 | [0056-merge-intervals](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0198-house-robber](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
@@ -70,6 +71,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -92,6 +94,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
