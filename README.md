@@ -54,6 +54,7 @@
 | [0198-house-robber](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
+| [0217-contains-duplicate](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -84,6 +85,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
+| [0217-contains-duplicate](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Hash Table
@@ -91,6 +93,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
+| [0217-contains-duplicate](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
