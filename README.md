@@ -101,6 +101,7 @@
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -166,11 +167,13 @@
 | [0212-word-search-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
