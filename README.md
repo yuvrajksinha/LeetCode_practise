@@ -50,6 +50,7 @@
 | [0039-combination-sum](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0056-merge-intervals](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
@@ -89,6 +90,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -132,6 +134,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
+| [0075-sort-colors](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0567-permutation-in-string](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
