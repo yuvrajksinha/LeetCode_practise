@@ -132,10 +132,12 @@
 | [0015-3sum](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0567-permutation-in-string](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0253-meeting-rooms-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +173,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
