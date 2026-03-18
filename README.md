@@ -45,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0039-combination-sum](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
@@ -129,6 +130,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0567-permutation-in-string](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
@@ -136,6 +138,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 ## Prefix Sum
