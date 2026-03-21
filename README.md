@@ -66,6 +66,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0733-flood-fill](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
+| [0739-daily-temperatures](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -227,10 +228,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0739-daily-temperatures](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0739-daily-temperatures](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
