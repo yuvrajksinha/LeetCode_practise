@@ -71,6 +71,7 @@
 | [0739-daily-temperatures](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
+| [1046-last-stone-weight](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +127,7 @@
 | [0253-meeting-rooms-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
+| [1046-last-stone-weight](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
