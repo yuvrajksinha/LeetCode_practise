@@ -66,6 +66,7 @@
 | [0253-meeting-rooms-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0496-next-greater-element-i](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
@@ -107,6 +108,7 @@
 | [0217-contains-duplicate](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0853-car-fleet](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
@@ -170,6 +172,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 ## Prefix Sum
@@ -190,6 +193,7 @@
 | [0070-climbing-stairs](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
