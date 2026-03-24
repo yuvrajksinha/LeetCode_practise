@@ -51,6 +51,7 @@
 | [0039-combination-sum](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0056-merge-intervals](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
