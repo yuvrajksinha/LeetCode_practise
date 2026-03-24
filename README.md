@@ -69,6 +69,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0733-flood-fill](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
@@ -106,6 +107,7 @@
 | [0253-meeting-rooms-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0853-car-fleet](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -134,6 +136,7 @@
 | [0253-meeting-rooms-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [1046-last-stone-weight](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 ## Bucket Sort
@@ -159,6 +162,7 @@
 | [0075-sort-colors](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0567-permutation-in-string](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -195,6 +199,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0278-first-bad-version](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -214,6 +219,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
