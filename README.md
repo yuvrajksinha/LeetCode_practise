@@ -164,6 +164,7 @@
 | [0018-4sum](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0075-sort-colors](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0143-reorder-list](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0567-permutation-in-string](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
@@ -232,12 +233,14 @@
 | [0002-add-two-numbers](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -260,6 +263,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0143-reorder-list](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0496-next-greater-element-i](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
