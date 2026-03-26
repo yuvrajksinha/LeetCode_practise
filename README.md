@@ -3,6 +3,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0113-path-sum-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
@@ -11,6 +12,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0113-path-sum-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
@@ -31,6 +33,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0113-path-sum-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
@@ -283,4 +286,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
