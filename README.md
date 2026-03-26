@@ -7,6 +7,7 @@
 | [0113-path-sum-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -15,6 +16,7 @@
 | [0207-course-schedule](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 ## Breadth-First Search
@@ -33,6 +35,7 @@
 | [0113-path-sum-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
