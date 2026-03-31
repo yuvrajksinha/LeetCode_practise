@@ -24,6 +24,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
+| [0721-accounts-merge](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 ## Breadth-First Search
@@ -38,6 +39,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0684-redundant-connection](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
+| [0721-accounts-merge](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 ## Binary Tree
@@ -89,6 +91,7 @@
 | [0621-task-scheduler](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
+| [0721-accounts-merge](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
@@ -108,6 +111,7 @@
 | [0200-number-of-islands](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0684-redundant-connection](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
+| [0721-accounts-merge](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +140,7 @@
 | [0435-non-overlapping-intervals](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
+| [0721-accounts-merge](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 | [0853-car-fleet](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -153,6 +158,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
+| [0721-accounts-merge](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,6 +250,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
+| [0721-accounts-merge](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
