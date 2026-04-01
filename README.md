@@ -12,6 +12,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0113-path-sum-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [0133-clone-graph](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0133-clone-graph/) | Medium |
@@ -58,6 +59,7 @@
 | [0040-combination-sum-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [0212-word-search-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
@@ -75,6 +77,7 @@
 | [0057-insert-interval](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
@@ -104,6 +107,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0417-pacific-atlantic-water-flow/) | Medium |
@@ -247,6 +251,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0212-word-search-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
