@@ -234,6 +234,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+| [0091-decode-ways](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0091-decode-ways/) | Medium |
 | [0198-house-robber](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
@@ -254,6 +255,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+| [0091-decode-ways](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0091-decode-ways/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0212-word-search-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
