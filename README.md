@@ -104,6 +104,7 @@
 | [0739-daily-temperatures](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
+| [0989-add-to-array-form-of-integer](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0989-add-to-array-form-of-integer/) | Easy |
 | [1046-last-stone-weight](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -230,6 +231,7 @@
 | [0007-reverse-integer](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0070-climbing-stairs](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0989-add-to-array-form-of-integer](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0989-add-to-array-form-of-integer/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
