@@ -74,6 +74,7 @@
 | [0018-4sum](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0039-combination-sum](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
+| [0042-trapping-rain-water](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0056-merge-intervals](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0057-insert-interval/) | Medium |
@@ -209,6 +210,7 @@
 | [0015-3sum](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0042-trapping-rain-water](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0143-reorder-list](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
@@ -239,6 +241,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0091-decode-ways/) | Medium |
 | [0198-house-robber](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
@@ -318,6 +321,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -327,6 +331,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
