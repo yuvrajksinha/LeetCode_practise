@@ -110,6 +110,7 @@
 | [0875-koko-eating-bananas](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0989-add-to-array-form-of-integer/) | Easy |
 | [1046-last-stone-weight](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
+| [1848-minimum-distance-to-the-target-element](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
