@@ -111,6 +111,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0989-add-to-array-form-of-integer/) | Easy |
 | [1046-last-stone-weight](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,6 +277,7 @@
 | [0567-permutation-in-string](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0721-accounts-merge](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
