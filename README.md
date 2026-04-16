@@ -112,6 +112,7 @@
 | [1046-last-stone-weight](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [3488-closest-equal-element-queries](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +176,7 @@
 | [0567-permutation-in-string](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0721-accounts-merge](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,6 +266,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
