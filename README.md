@@ -242,6 +242,7 @@
 | [0070-climbing-stairs](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0989-add-to-array-form-of-integer/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
