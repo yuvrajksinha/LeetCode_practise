@@ -111,6 +111,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0989-add-to-array-form-of-integer/) | Easy |
 | [1046-last-stone-weight](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 ## Matrix
@@ -221,6 +222,7 @@
 | [0567-permutation-in-string](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +269,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 ## String
 | Problem Name | Difficulty |
