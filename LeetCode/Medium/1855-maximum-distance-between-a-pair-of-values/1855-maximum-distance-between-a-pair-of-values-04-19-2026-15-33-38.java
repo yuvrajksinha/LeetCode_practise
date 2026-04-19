@@ -1,0 +1,14 @@
+class Solution {
+    public int maxDistance(int[] nums1, int[] nums2) {
+        int maxDist=0,p1=0,p2=0;
+        while(p1<nums1.length && p2<nums2.length){
+            if(nums1[p1]>nums2[p2]){
+                p1++;
+            } else {
+                maxDist = Math.max(maxDist,p2-p1);
+                p2++;
+            }
+        }
+        return maxDist;
+    }
+}
