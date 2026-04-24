@@ -207,6 +207,7 @@
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +290,7 @@
 | [0680-valid-palindrome-ii](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0721-accounts-merge](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/yuvrajksinha/LeetCode_practise/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
